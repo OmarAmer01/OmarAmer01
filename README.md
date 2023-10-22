@@ -4,10 +4,10 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/omartarekamer/)
 
 Hello 👋  
-I'm Omar Amer. A Cairo university senior-2 electronics, computer, and communication engineering student. I'm interested in everything about digital electronics: Design, implementation, and verification.
+I'm Omar Amer. A Cairo university senior-2 electronics, computer, and communication engineering Graduate. I'm a teaching assistant in Cairo University. I'm interested in everything about digital electronics: Design, implementation, and verification.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAmer01&langs_count=8&theme=dracula&hide=c%23&count_private=true&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarAmer01&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarAmer01&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)>
 
 ## 📌 Pinned Repositories
 
