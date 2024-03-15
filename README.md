@@ -19,7 +19,7 @@ I'm Omar Amer. A Cairo university electronics, computer, and communication engin
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAmer01&repo=Hany-s-revenge&theme=dracula)](https://github.com/OmarAmer01/Hany-s-Revenge)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mostafa-abdelbrr&repo=DBMS-Project-Laptop-Database&theme=dracula)](https://github.com/OmarAmer01/Hany-s-Revenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mostafa-abdelbrr&repo=DBMS-Project-Laptop-Database&theme=dracula)](https://github.com/mostafa-abdelbrr/DBMS-Project-Laptop-Database)
 
 ## 🤹 Skills
 
