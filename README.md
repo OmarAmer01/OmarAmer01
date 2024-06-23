@@ -28,7 +28,7 @@ I'm Omar Amer. A Cairo university electronics, computer, and communication engin
 ## 🤹 Skills
 
 ### HDL
-
+![](https://img.shields.io/badge/Hardware-SystemVerilog-informational?style=flat&logo=SystemVerilog&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Hardware-Verilog-informational?style=flat&logo=verilog&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Hardware-VHDL-informational?style=flat&logo=verilog&logoColor=white&color=blue)
 
