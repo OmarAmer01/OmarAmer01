@@ -11,11 +11,11 @@ I'm Omar Amer. A Cairo university electronics, computer, and communication engin
 
 ## 📌 Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAmer01&repo=VP_Harvard_MIPS&theme=dracula)](https://github.com/OmarAmer01/DCSK)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAmer01&repo=DCSK&theme=dracula)](https://github.com/OmarAmer01/DCSK)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAmer01&repo=wildwest&theme=dracula)](https://github.com/OmarAmer01/UVM_OC8051_ALU)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAmer01&repo=UVM_OC8051_ALU&theme=dracula)](https://github.com/OmarAmer01/UVM_OC8051_ALU)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAmer01&repo=matching-network-designer&theme=dracula)](https://github.com/OmarAmer01/Schem2GDS_SAR_ADC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAmer01&repo=Schem2GDS_SAR_ADC&theme=dracula)](https://github.com/OmarAmer01/Schem2GDS_SAR_ADC)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OmarAmer01&repo=wildwest&theme=dracula)](https://github.com/OmarAmer01/wildwest)
 
